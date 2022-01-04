@@ -1,0 +1,7 @@
+/tkinter.egg-info/
+/build/
+/dist/
+/wheelhouse/
+__pycache__/
+*.pyc
+*.pyo
